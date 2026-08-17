@@ -1,0 +1,4 @@
+<resources>
+    <!-- Matches the dark Compose scheme so there is no white flash before first frame. -->
+    <style name="Theme.PhysicsCalc" parent="android:Theme.Material.NoActionBar" />
+</resources>

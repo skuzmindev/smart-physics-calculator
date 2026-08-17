@@ -1,0 +1,4 @@
+<resources>
+    <!-- Only the pre-Compose window frame. Real theming lives in ui/theme/Theme.kt. -->
+    <style name="Theme.PhysicsCalc" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
